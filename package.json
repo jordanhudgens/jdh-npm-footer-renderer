@@ -1,6 +1,6 @@
 {
   "name": "jdh-npm-footer-renderer",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A cool footer rendering engine",
   "main": "index.js",
   "scripts": {

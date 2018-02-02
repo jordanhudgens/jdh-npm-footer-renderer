@@ -10,3 +10,4 @@ var moment = require('moment');
 module.exports = function footer(name) {
     return "Copyright " + moment().format('YYYY') + " " + name + " All rights reserved";
 };
+
