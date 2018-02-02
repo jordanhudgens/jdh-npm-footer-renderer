@@ -7,8 +7,7 @@ var moment = require('moment');
  * @param {string} name
  * @return {string}
  */
-module.exports = function footer(name) {
-    console.log('I am in the footer function');
-    //return "Copyright " + moment().format('YYYY') + " " + name + " All rights reserved";
+exports.footer = function (name) {
+    return "Copyright " + moment().format('YYYY') + " " + name + " All rights reserved";
 };
 
