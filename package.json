@@ -1,0 +1,25 @@
+{
+  "name": "jdh-npm-footer-renderer",
+  "version": "0.1.0",
+  "description": "A cool footer rendering engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jordanhudgens/jdh-npm-footer-renderer.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Jordan Hudgens",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jordanhudgens/jdh-npm-footer-renderer/issues"
+  },
+  "homepage": "https://github.com/jordanhudgens/jdh-npm-footer-renderer#readme",
+  "dependencies": {
+    "moment": "^2.20.1"
+  }
+}
